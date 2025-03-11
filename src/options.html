@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extension Settings</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            width: 300px;
+            padding: 15px;
+        }
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-bottom: 10px;
+        }
+        button {
+            width: 100%;
+            padding: 10px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <h3>Set Notion API Key</h3>
+    <input type="password" id="notionApiKey" placeholder="Enter Notion API Key">
+    <button id="saveApiKey">Save API Key</button>
+    
+    <h3>Set Notion Database ID</h3>
+    <input type="password" id="notionDatabaseID" placeholder="Enter Notion Database ID">
+    <button id="saveDatabaseID">Save Database ID</button>
+    
+    <p id="status"></p>
+
+    <script src="options.js"></script>
+</body>
+</html>
