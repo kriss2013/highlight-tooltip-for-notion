@@ -114,7 +114,7 @@ Yes, the API Key can be updated at any time via the extension settings.
 
 ## Additional Resources  
 - [Notion API Documentation](https://developers.notion.com)  
-- [Report a Bug or Feature Request](https://github.com/YOUR-USERNAME/highlighter-tooltip-for-notion/issues)  
+- [Report a Bug or Feature Request](https://github.com/kriss2013/highlighter-tooltip-for-notion/issues)  
 
 ## License  
 This project is licensed under the **MIT License**, allowing users to freely use, modify, and distribute the extension.  
