@@ -1,0 +1,45 @@
+/* Highlighted term style */
+.highlighted-term {
+    background-color: yellow;
+    cursor: pointer;
+    position: relative;
+}
+
+/* Tooltip styling */
+.highlighted-term:hover::after {
+    content: attr(data-body); /* Show only the description here */
+    position: absolute;
+    background: black;
+    color: white;
+    padding: 8px;
+    border-radius: 5px;
+    top: 120%;
+    left: 0;
+    white-space: pre-line; /* Allows line breaks */
+    font-size: 14px;
+    z-index: 1000;
+    max-width: 500px;
+    min-width: 300px;
+    line-height: 1.5;
+    text-align: left;
+    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);
+}
+
+/* Title styling inside the tooltip */
+.highlighted-term:hover::before {
+    content: attr(data-title);
+    position: absolute;
+    background: black;
+    color: white;
+    font-weight: bold;
+    font-size: 16px;
+    padding: 8px 8px 4px 8px; /* Extra padding for title */
+    border-radius: 5px 5px 0 0; /* Rounded top corners */
+    top: 100%;
+    left: 0;
+    white-space: normal;
+    text-align: left;
+    z-index: 1001;
+    max-width: 500px;
+    min-width: 300px;
+}
