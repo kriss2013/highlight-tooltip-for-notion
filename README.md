@@ -21,7 +21,7 @@ A link to the Chrome Web Store will be provided once the extension is published.
 1. Clone the repository: download zip and unpack locally. choose the place to unpack wisely, as you have to let the files there in order for the extension to work properly.
 2. Open Chrome and navigate to `chrome://extensions/`  
 3. Enable Developer Mode using the toggle in the top-right corner  
-4. Click **"Load Unpacked"** and select the `"src"` folder from the cloned repository  
+4. Click **"Load Unpacked"** and select the `"src"` folder which is within the unpack folder.  
 
 ## Setup and Configuration  
 
