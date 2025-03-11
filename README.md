@@ -28,7 +28,7 @@ A link to the Chrome Web Store will be provided once the extension is published.
 ### Generate a Notion API Key  
 1. Go to [Notion Integrations](https://www.notion.so/my-integrations)  
 2. Click **"New Integration"**, name the integration, and select a workspace  
-3. Copy the **"Internal Integration Token"** provided by Notion  
+3. Copy the **"Internal Integration Token"** provided by Notion, we will use it shortly.
 
 ### Create a Notion Database  
 The database must have at least the following three fields:
