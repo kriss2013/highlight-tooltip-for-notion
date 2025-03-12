@@ -102,7 +102,7 @@ The database must have at least the following three fields:
 1. Open the Notion database  
 2. Look at your databse URL, it looks like:  
    ```
-   https://www.notion.so/workspace/1ac1993412cc8050b8eec06cd4c9cefd?v=abcdef
+   https://www.notion.so/workspace/1ac1993412cc8060b8edc06cd4c9cefd?v=abcdef
    ```
 3. Copy the long ID between `workspace/`  and `?v=`
 
