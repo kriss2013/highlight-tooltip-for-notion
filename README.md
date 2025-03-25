@@ -95,7 +95,8 @@ The database must have at least the following three fields:
 
 **Why aren't highlights appearing?**  
 - Ensure that the Notion API Key and Database ID are correct  
-- Confirm that the Notion database is shared with the integration  
+- Confirm that the Notion database is shared with the integration
+- be sure to have enabled highlighting (click on the extension icon to see the status)
 - Open Chrome Developer Tools (`F12 > Console`) to check for errors  
 
 **How do I find my Notion Database ID?**  
