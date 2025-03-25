@@ -27,7 +27,7 @@ Highlighter & Tooltip for Notion is a Chrome extension that automatically highli
 
 ### Generate a Notion API Key  
 1. Go to [Notion Integrations](https://www.notion.so/my-integrations)  
-2. Click **"New Integration"**, name the integration, and select a workspace  
+2. Click **"New Integration"**, name the integration, select a workspace and select at least "Read content" from the "Content Capabilities"  
 3. Copy the **"Internal Integration Token"** provided by Notion, we will use it shortly.
 
 ### Create a Notion Database  
