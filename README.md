@@ -70,10 +70,10 @@ The database must have at least the following three fields:
 - Paste the Notion API Key into the appropriate field  - Click **"save API key"**
 - Copy the Notion Database ID from the URL of the Notion database. (see below to find it, if you don't know) - Click **"Save Database ID"**  
 
-## Usage  
+## Usage
+- Click the extension icon to toggle highlighting on or off  
 - The extension will automatically highlight words found in the Notion database when browsing webpages  
 - Hover over a highlighted word to view its definition in a tooltip  
-- Click the extension icon to toggle highlighting on or off  
 
 ## Customization  
 - Users can update their Notion API Key and Database ID at any time via the extension settings  
