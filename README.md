@@ -14,10 +14,10 @@ Highlighter & Tooltip for Notion is a Chrome extension that automatically highli
 
 ## Installation  
 
-### Option 1: From the Chrome Web Store (Coming Soon)  
-A link to the Chrome Web Store will be provided once the extension is published.  
+### Option 1: From the Chrome Web Store  
+[A link to the Chrome Web Store will be provided once the extension is published. ](https://chromewebstore.google.com/detail/highlight-tooltip/aaafohfphgcnhgfmglfcdphbpkiaiknn) 
 
-### Option 2: Manual Installation  
+### Option 2: Manual Installation (to play with the code)
 1. "Download zip" (under the green "Code" button above) from this repository and unpack locally. choose the place to unpack wisely, as you have to let the files there in order for the extension to work properly.
 2. Open Chrome and navigate to `chrome://extensions/`  
 3. Enable Developer Mode using the toggle in the top-right corner  
