@@ -15,6 +15,7 @@
          * [3. Open the Options Page](#3-open-the-options-page)
          * [4. input configuratio infos](#4-input-configuratio-infos)
    * [Usage](#usage)
+        * [Tip](#tip)
    * [Customization](#customization)
    * [Privacy and Security](#privacy-and-security)
    * [Use Cases](#use-cases)
@@ -98,7 +99,9 @@ The database must have at least the following three fields:
 ## Usage
 - Click the extension icon to toggle highlighting on or off  
 - The extension will automatically highlight words found in the Notion database when browsing webpages  
-- Hover over a highlighted word to view its definition in a tooltip  
+- Hover over a highlighted word to view its definition in a tooltip
+### Tip
+use an extension like https://www.savetonotion.so/ in order to populate your terms and acronym database while surfing the web. Don't forget to relaod the tooltip extension, f.i. by diabling and reanabling it.
 
 ## Customization  
 - Users can update their Notion API Key and Database ID at any time via the extension settings  
