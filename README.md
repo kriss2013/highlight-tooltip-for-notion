@@ -1,3 +1,28 @@
+* [Highlighter &amp; Tooltip for Notion](#highlighter--tooltip-for-notion)
+   * [Overview](#overview)
+   * [Features](#features)
+   * [Installation](#installation)
+      * [Option 1: From the Chrome Web Store](#option-1-from-the-chrome-web-store)
+      * [Option 2: Manual Installation (to play with the code)](#option-2-manual-installation-to-play-with-the-code)
+   * [Setup and Configuration](#setup-and-configuration)
+      * [Generate a Notion API Key](#generate-a-notion-api-key)
+      * [Create a Notion Database](#create-a-notion-database)
+         * [Example Database Entries](#example-database-entries)
+      * [Allow the Extension to Access the Notion Database](#allow-the-extension-to-access-the-notion-database)
+      * [Configure the Extension Options in the Chrome Administration Panel](#configure-the-extension-options-in-the-chrome-administration-panel)
+         * [1. Open Chrome's Extension Management Page](#1-open-chromes-extension-management-page)
+         * [2. Find the Extension "Highlight &amp; Tooltip"](#2-find-the-extension-highlight--tooltip)
+         * [3. Open the Options Page](#3-open-the-options-page)
+         * [4. input configuratio infos](#4-input-configuratio-infos)
+   * [Usage](#usage)
+   * [Customization](#customization)
+   * [Privacy and Security](#privacy-and-security)
+   * [Use Cases](#use-cases)
+   * [Troubleshooting and FAQ](#troubleshooting-and-faq)
+   * [Additional Resources](#additional-resources)
+   * [License](#license)
+   * [Why Use Highlighter &amp; Tooltip for Notion?](#why-use-highlighter--tooltip-for-notion)
+
 # Highlighter & Tooltip for Notion  
 
 ## Overview  
